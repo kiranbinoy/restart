@@ -1,0 +1,20 @@
+.asd{
+    width: 20%;
+    margin-left: auto;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size:50px;
+    color: rgb(136, 146, 47);
+}
+.img{
+    width: auto;
+    text-align: center;
+}
+p{
+    font-style: italic;
+}
+//.asd{
+    text-align: right;
+}
