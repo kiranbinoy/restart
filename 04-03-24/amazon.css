@@ -1,0 +1,35 @@
+div{
+    width: auto;
+    height: 60px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    display: flex;
+    font-size: medium;
+    border: 5px solid white;
+}
+#a1{
+    
+    color: rgb(216, 143, 7);
+    margin-right: auto;
+    
+}
+a{
+    color: white;
+    margin-top: 18px;
+    width: 19.5%;
+}
+#a2{
+
+   width: 19.5%;
+}
+#a3{
+width: 19.5%;
+}
+#a4{
+width: 19.5%;
+}
+#a5{
+    width: 19.5%;
+    background-color: orangered;
+}
